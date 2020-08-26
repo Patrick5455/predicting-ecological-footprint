@@ -1,11 +1,5 @@
 # Predicting Stability of Electric Grid System
 
-    speech. We provide  answered questions from actual past University entrance examinations, with explanatory hints for all answer choices.
-    University Entrance Exam Q&A: Particulate Nature of Matter
-    University Entrance Exam Q&A: Particulate Nature of Matter
-
-    Test your knowledge of the particulate nature of water. We provide answered questions from actual past University entrance examinations, with explanatory hints for all answer choices.
-
 Project & Dataset Description
 
 Stability of the Grid System
